@@ -11,7 +11,7 @@ while True:
     city = input("Enter a city name or type exit to quit: ")
 
     if city.lower() == "exit":
-        print("Goodbye")
+        print("Peace")
         break
 
     unit_choice = input("Choose units (F for Fahrenheit or C for Celsius): ")
